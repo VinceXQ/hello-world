@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+This is my first repository
+
+add a line to see if changes
